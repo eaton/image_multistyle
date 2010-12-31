@@ -1,0 +1,6 @@
+; $Id$
+name = Image Multistyle
+description = Provides a custom image field formatter that links to multiple resolutions.
+core = 7.x
+dependencies[] = image
+files[] = image_multistyle.module
